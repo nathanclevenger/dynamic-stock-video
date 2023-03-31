@@ -42,7 +42,7 @@ export const RemotionRoot: React.FC = () => {
 				width={1920}
 				height={1080}
 				defaultProps={{
-					titleText: 'Working with TTS (Azure + AWS S3)',
+					titleText: 'Dynamic Storytelling with Remotion',
 					titleColor: 'black',
 				}}
 			/>
